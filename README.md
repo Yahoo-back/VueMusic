@@ -3,11 +3,10 @@
 
 👉 慕课网学习地址: http://coding.imooc.com/class/107.html
 
-👉 项目演示地址: https://bxm0927.github.io/vue-music-webapp/dist/ （*在 GitHub Pages 中，通过 jsonp 请求的数据会被正常渲染，而由于无 node 服务，通过 axios 请求的数据不会被正常渲染*）
 
 基于 **Vue 全家桶 (2.x)** 制作的移动端音乐 WebApp ，一个媲美原生的移动端音乐 App，项目完整、功能完备、UI美观、交互一流。
 
-![图片预览](http://oph264zoo.bkt.clouddn.com/17-8-11/52879457.jpg)
+
 
 
 ## 技术栈
@@ -154,25 +153,10 @@
 
 页面是响应式的，适配常见的移动端屏幕，采用 `flex` 布局
 
-## Build Setup
-
-``` bash
-# clone the repo into your disk.
-$ git clone https://github.com/bxm0927/music-app.git
-
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:8080
-$ npm run dev
-
-# build for production with minification
-$ npm run build
-```
 
 
 ## License
-
+come from   https://github.com/bxm0927/music-app.git
 The code is available under the [MIT license](https://opensource.org/licenses/MIT).
 
 ![](http://oph264zoo.bkt.clouddn.com/17-8-11/10545126.jpg)
